@@ -1,4 +1,4 @@
-# Description
+## Description
 This project randomly selects a peice of advice from an array of sewing tips and prints it to the console.
 
 ## Instructions for Use
