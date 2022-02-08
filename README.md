@@ -1,2 +1,2 @@
 # sewingTips
-generates random sewing advice using Node
+This project generates random sewing advice using Node
