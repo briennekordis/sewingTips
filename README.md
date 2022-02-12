@@ -8,7 +8,7 @@ sewingTips
 - [Suggestions for Improvements](https://github.com/briennekordis/sewingTips#suggestions-for-improvements)
 
 ## Description & General Info
-This project randomly selects a peice of advice from an array of sewing tips and prints it to the console. This code was created to fufill the "Mixed Messages" portfolio project in Codecademy's Full Stack Engineer course.
+This project randomly selects a peice of advice from an array of sewing tips and prints it to the console. This code was created to fufill the "Mixed Messages" portfolio project in Codecademy's Full Stack Engineer [path](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path).
 
 ## Languages & Technologies
 - JavaScript
