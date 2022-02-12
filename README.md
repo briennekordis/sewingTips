@@ -1,11 +1,11 @@
-## Porject Name
+## Project Name
 sewingTips
 
 ## Table of Contents
-- [Description & General Info]
-- [Languages & Technologies]
-- [Setup & Use]
-- [Suggestions for Improvements]
+- [Description & General Info](https://github.com/briennekordis/sewingTips#description--general-info)
+- [Languages & Technologies](https://github.com/briennekordis/sewingTips#languages--technologies)
+- [Setup & Use](https://github.com/briennekordis/sewingTips#setup--use)
+- [Suggestions for Improvements](https://github.com/briennekordis/sewingTips#suggestions-for-improvements)
 
 ## Description & General Info
 This project randomly selects a peice of advice from an array of sewing tips and prints it to the console. This code was created to fufill the "Mixed Messages" portfolio project in Codecademy's Full Stack Engineer course.
